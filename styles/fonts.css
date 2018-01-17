@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Alegreya; /* Имя шрифта */
+    src: url(../assets/fonts/Alegreya/Alegreya-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Scriptina; /* Имя шрифта */
+    src: url(../assets/fonts/Scriptina/SCRIPTIN.ttf); /* Путь к файлу со шрифтом */
+}

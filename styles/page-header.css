@@ -1,0 +1,12 @@
+.page-header {
+    //display: flex;
+    //justify-content: space-between;
+    background-color: rgba(86,83,76,0.5);
+    min-height: 35px;
+}
+
+.page-header__logo {
+    top: 5%;
+    left: 0;
+    transform: translateY(-15%);
+}
